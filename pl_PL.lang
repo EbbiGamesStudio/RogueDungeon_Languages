@@ -1,0 +1,11 @@
+lang=Polski
+##################### Główne
+game_title=Rogue\nDungeon
+game_version=wersja {0}a {1}
+
+############### MENU
+new_game=Nowa gra
+load_game=Wczytaj
+settings=Ustawienia
+menu_credits=Twórcy
+menu_quit=Wyjście
