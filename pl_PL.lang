@@ -3,9 +3,67 @@ lang=Polski
 game_title=Rogue\nDungeon
 game_version=wersja {0}a {1}
 
+credits_info=Game created by Ebbi Gebbi.\n\nSpecial thanks to:\n- Ebbi Gebbi\n- Ebbi Gebbi\n- Ebbi Gebbi\n\nFor more information, visit our website: www.redtube.com
+
 ############### MENU
-new_game=Nowa gra
-load_game=Wczytaj
-settings=Ustawienia
+menu_new_game=Nowa gra
+menu_load_game=Wczytaj
+menu_settings=Ustawienia
 menu_credits=Twórcy
-menu_quit=Wyjście
+menu_mods=Mody
+menu_editor=Edytor
+menu_exit=Wyjście
+
+popup_exit_title=Wyjście z gry
+popup_exit_message=Czy napewno chcesz <b>wyjść</b> z gry?
+popup_credits_title=Twórcy
+popup_credits_message=Game created by <b>Ebbi Gebbi</b>\n\nSpecial thanks to:\n- <b>Ebbi Gebbi</b>\n- <b>Ebbi Gebbi</b>\n- <b>Ebbi Gebbi</b>\n\nFor more information, visit our website: <color=red>www.redtube.com</color>
+popup_notimplemented_title=<color=red>!!!</color> Błąd podczas wykonywania czynności <color=red>!!!</color>
+popup_notimplemented_message=Czynność, którą chcesz wykonać, nie została jeszcze zaimplementowana.
+
+############### Przyciski
+button_ok=Ok
+button_no=Nie
+button_yes=Tak
+button_cancel=Anuluj
+button_save=Zapisz
+button_back=Cofnij
+button_start_new_game=Rozpocznij nową grę
+
+
+on=Włączone
+off=Wyłączone
+
+
+############### Nowa gra
+new_game_window_title=Kreator nowej gry
+
+new_game_window_popup_back_title=Zamknięcie kreatora nowej gry
+new_game_window_popup_back_message=Czy napewno chcesz zamknąć kreator gry?\n\nWszyskie zmiany zostaną utracone.
+
+new_game_world_parameter_title=Ustawienia świata
+new_game_world_name=Nazwa świata
+new_game_world_seed=Seed
+
+new_game_world_mods_toggle=Mody
+new_game_world_mods_warning_title=Ostrzeżenie o włączonych modach
+new_game_world_mods_warning_message=Włączenie modów, może zepsuć rozgrywkę.\nRobisz to na własną odpowiedzialność.\n\n Obsługa modów nie została jeszcze zaimplementowana!!!
+
+new_game_world_parameter_title=Ustawienia Świata
+new_world=Nowy wspaniały świat
+
+new_game_world_mode=Tryb gry
+new_game_world_mode_standard=Standard
+new_game_world_mode_hardcore=Hardcore (Roguelike)
+new_game_world_mode_exploration=Eksploracja
+new_game_world_mode_developer=Dla Developera
+
+new_game_world_size=Rozmiar świata
+new_game_world_size_small=Mały
+new_game_world_size_medium=Średni
+new_game_world_size_large=Duży
+
+new_game_world_difficulty=Poziom trudności
+new_game_world_difficulty_easy=Łatwy
+new_game_world_difficulty_normal=Normalny
+new_game_world_difficulty_hard=Trudny
