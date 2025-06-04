@@ -1,0 +1,53 @@
+{
+	"lang": "Polski",
+	"game": {
+		"title": "Rogue\\nDungeon",
+		"version": "wersja {0}a {1}"
+	},
+	"credits_info": "Game created by Ebbi Gebbi.\\n\\nSpecial thanks to:\\n- Ebbi Gebbi\\n- Ebbi Gebbi\\n- Ebbi Gebbi\\n\\nFor more information, visit our website: www.redtube.com",
+	"menu": {
+		"new_game": "Nowa gra",
+		"load_game": "Wczytaj",
+		"settings": "Ustawienia",
+		"credits": "Twórcy",
+		"mods": "Mody",
+		"editor": "Edytor",
+		"exit": "Wyjście"
+	},
+	"popup": {
+		"exit": {
+			"title": "Wyjście z gry",
+			"message": "Czy napewno chcesz <b>wyjść</b> z gry?"
+		},
+		"credits": {
+			"title": "Twórcy",
+			"message": "Game created by <b>Ebbi Gebbi</b>\\n\\nSpecial thanks to:\\n- <b>Ebbi Gebbi</b>\\n- <b>Ebbi Gebbi</b>\\n- <b>Ebbi Gebbi</b>\\n\\nFor more information, visit our website: <color=red>www.redtube.com</color>"
+		},
+		"notimplemented": {
+			"title": "<color=red>!!!</color> Błąd podczas wykonywania czynności <color=red>!!!</color>"
+		}
+	},
+	"new_game": {
+		"world": {
+			"mode": {
+				"standard": "Standardowy",
+				"hardcore": "Hardcore",
+				"exploration": "Eksploracyjny",
+				"developer": "Deweloperski"
+			},
+			"size": {
+				"small": "Mały",
+				"medium": "Średni",
+				"large": "Duży"
+			},
+			"difficulty": {
+				"easy": "Łatwy",
+				"normal": "Normalny",
+				"hard": "Trudny"
+			}
+		}
+	},
+	"new_world": "Nowy Świat",
+	"on": "Włączone",
+	"off": "Wyłączone"
+}

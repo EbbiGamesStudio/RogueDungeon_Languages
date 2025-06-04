@@ -1,0 +1,53 @@
+{
+	"lang": "English",
+	"game": {
+		"title": "Rogue\\nDungeon",
+		"version": "version {0}a {1}"
+	},
+	"credits_info": "Game created by Ebbi Gebbi.\\n\\nSpecial thanks to:\\n- Ebbi Gebbi\\n- Ebbi Gebbi\\n- Ebbi Gebbi\\n\\nFor more information, visit our website: www.redtube.com",
+	"menu": {
+		"new_game": "New Game",
+		"load_game": "Load Game",
+		"settings": "Settings",
+		"credits": "Credits",
+		"mods": "Mods",
+		"editor": "Editor",
+		"exit": "Exit"
+	},
+	"popup": {
+		"exit": {
+			"title": "Exit Game",
+			"message": "Are you sure you want to <b>exit</b> the game?"
+		},
+		"credits": {
+			"title": "Credits",
+			"message": "Game created by <b>Ebbi Gebbi</b>\\n\\nSpecial thanks to:\\n- <b>Ebbi Gebbi</b>\\n- <b>Ebbi Gebbi</b>\\n- <b>Ebbi Gebbi</b>\\n\\nFor more information, visit our website: <color=red>www.redtube.com</color>"
+		},
+		"notimplemented": {
+			"title": "<color=red>!!!</color> Error performing action <color=red>!!!</color>"
+		}
+	},
+	"new_game": {
+		"world": {
+			"mode": {
+				"standard": "Standard",
+				"hardcore": "Hardcore",
+				"exploration": "Exploration",
+				"developer": "Developer"
+			},
+			"size": {
+				"small": "Small",
+				"medium": "Medium",
+				"large": "Large"
+			},
+			"difficulty": {
+				"easy": "Easy",
+				"normal": "Normal",
+				"hard": "Hard"
+			}
+		}
+	},
+	"new_world": "New World",
+	"on": "On",
+	"off": "Off"
+}
