@@ -1,0 +1,17 @@
+{
+	"lang": "English",
+	"new_world": "New World",
+	"on": "On",
+	"off": "Off",
+	"button": {
+		"ok": "Ok",
+		"cancel": "Cancel",
+		"yes": "Yes",
+		"no": "No",
+		"close": "Close",
+		"save": "Save",
+		"load": "Load",
+		"delete": "Delete",
+		"start_new_game": "Start New Game"
+	}
+}

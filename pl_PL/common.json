@@ -1,0 +1,17 @@
+{
+	"lang": "Polski",
+	"new_world": "Nowy Świat",
+	"on": "Włączone",
+	"off": "Wyłączone",
+	"button": {
+		"ok": "Ok",
+		"cancel": "Anuluj",
+		"yes": "Tak",
+		"no": "Nie",
+		"close": "Zamknij",
+		"save": "Zapisz",
+		"load": "Wczytaj",
+		"delete": "Usuń",
+		"start_new_game": "Rozpocznij nową grę"
+	}
+}

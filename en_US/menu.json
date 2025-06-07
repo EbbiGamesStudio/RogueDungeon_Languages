@@ -1,0 +1,19 @@
+{
+	"menu": {
+		"new_game": "New Game",
+		"load_game": "Load Game",
+		"settings": "Settings",
+		"credits": "Credits",
+		"mods": "Mods",
+		"editor": "Editor",
+		"exit": "Exit"
+	},
+	"popup": {
+		"exit": {
+			"title": "Exit",
+			"description": "Are you sure you want to exit the game?",
+			"confirm": "Yes",
+			"cancel": "Cancel"
+		}
+	}
+}

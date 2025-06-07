@@ -1,0 +1,21 @@
+{
+	"game": {
+		"title": "Rogue\\nDungeon",
+		"version": "wersja {0}a {1}",
+		"credits_info": "Gra stworzona przez <b>Ebbi Gebbi</b>\n\nSpecjalne podziękowania dla:\n- <b>Ebbi Gebbi</b>\n- <b>Ebbi Gebbi</b>\n- <b>Ebbi Gebbi</b>\n\nAby uzyskać więcej informacji, odwiedź naszą stronę internetową: <color=red>www.redtube.com</color>"
+	},
+	"new_game": {
+		"world": {
+			"size": {
+				"small": "Mały",
+				"medium": "Średni",
+				"large": "Duży"
+			},
+			"difficulty": {
+				"easy": "Łatwy",
+				"normal": "Normalny",
+				"hard": "Trudny"
+			}
+		}
+	}
+}

@@ -1,13 +1,15 @@
 {
-	"version": "0bf5158421c4bc474f8164c092c461f50f6c00f2",
-	"languages": [
-		{
-			"code": "en_US",
-			"name": "English (US)"
-		},
-		{
-			"code": "pl_PL",
-			"name": "Polski (PL)"
-		}
-	]
+  "version": "b8a0d04ff5cf75c2fb59de16f4a7e1345a4ec9fc",
+  "languages": [
+    {
+      "code": "en_US",
+      "rtl": false,
+      "name": "English (US)"
+    },
+    {
+      "code": "pl_PL",
+      "rtl": false,
+      "name": "Polski (PL)"
+    }
+  ]
 }

@@ -1,0 +1,19 @@
+{
+	"menu": {
+		"new_game": "Nowa gra",
+		"load_game": "Wczytaj",
+		"settings": "Ustawienia",
+		"credits": "Twórcy",
+		"mods": "Mody",
+		"editor": "Edytor",
+		"exit": "Wyjście"
+	},
+	"popup": {
+		"exit": {
+			"title": "Wyjście",
+			"description": "Czy na pewno chcesz wyjść z gry?",
+			"confirm": "Tak",
+			"cancel": "Anuluj"
+		}
+	}
+}

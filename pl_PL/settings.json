@@ -1,0 +1,26 @@
+{
+	"settings": {
+		"title": "Ustawienia",
+		"audio": {
+			"title": "Dźwięk",
+			"master_volume": "Głośność główna",
+			"music_volume": "Głośność muzyki",
+			"sfx_volume": "Głośność efektów dźwiękowych"
+		},
+		"video": {
+			"title": "Wideo",
+			"resolution": "Rozdzielczość",
+			"fullscreen": "Pełny ekran",
+			"vsync": "Synchronizacja pionowa"
+		},
+		"controls": {
+			"title": "Sterowanie",
+			"keyboard_mouse": "Klawiatura i mysz",
+			"gamepad": "Gamepad"
+		},
+		"language": {
+			"title": "Język",
+			"description": "Wybierz język, w którym chcesz grać."
+		}
+	}
+}

@@ -2,9 +2,9 @@
 	"lang": "Polski",
 	"game": {
 		"title": "Rogue\\nDungeon",
-		"version": "wersja {0}a {1}"
+		"version": "wersja {0}a {1}",
+		"credits_info": "Gra stworzona przez <b>Ebbi Gebbi</b>\n\nSpecjalne podziękowania dla:\n- <b>Ebbi Gebbi</b>\n- <b>Ebbi Gebbi</b>\n- <b>Ebbi Gebbi</b>\n\nAby uzyskać więcej informacji, odwiedź naszą stronę internetową: <color=red>www.redtube.com</color>"
 	},
-	"credits_info": "Game created by Ebbi Gebbi.\\n\\nSpecial thanks to:\\n- Ebbi Gebbi\\n- Ebbi Gebbi\\n- Ebbi Gebbi\\n\\nFor more information, visit our website: www.redtube.com",
 	"menu": {
 		"new_game": "Nowa gra",
 		"load_game": "Wczytaj",
@@ -20,34 +20,122 @@
 			"message": "Czy napewno chcesz <b>wyjść</b> z gry?"
 		},
 		"credits": {
-			"title": "Twórcy",
-			"message": "Game created by <b>Ebbi Gebbi</b>\\n\\nSpecial thanks to:\\n- <b>Ebbi Gebbi</b>\\n- <b>Ebbi Gebbi</b>\\n- <b>Ebbi Gebbi</b>\\n\\nFor more information, visit our website: <color=red>www.redtube.com</color>"
+			"title": "Twórcy"
 		},
 		"notimplemented": {
-			"title": "<color=red>!!!</color> Błąd podczas wykonywania czynności <color=red>!!!</color>"
+			"title": "<color=red>!!!</color> Błąd podczas wykonywania czynności <color=red>!!!</color>",
+			"message": "Ta funkcja nie jest jeszcze zaimplementowana. Proszę spróbować ponownie później."
+		},
+		"new_game_back": {
+			"title": "Powrót",
+			"message": "Czy chcesz wrócić do menu głównego?\n\nWszyskie zmiany zostaną utracone."
 		}
 	},
 	"new_game": {
 		"world": {
+			"title": "Ustawienia świata",
+			"description": "Stwórz świat, w którym chcesz grać. Możesz wybrać jeden z predefiniowanych światów lub stworzyć własny.",
+
+			"name": {
+				"title": "Nazwa świata",
+				"description": "Wprowadź nazwę dla nowego świata. Nazwa powinna być unikalna i łatwa do zapamiętania.",
+
+				"defaultName": "Nowy wspaniały świat"
+			},
+			"seed": {
+				"title": "Seed świata",
+				"description": "Wprowadź losowy nasionek, aby stworzyć unikalny świat. Możesz użyć dowolnej kombinacji liter i cyfr."
+			},
+			"mods": {
+				"title": "Mody",
+				"description": "Wybierz, czy chcesz włączyć mody w swoim świecie. Mody mogą zmieniać rozgrywkę i dodawać nowe funkcje.",
+
+				"on": "Włączone",
+				"on_description": "Włącz mody, aby dodać nowe funkcje i zmienić rozgrywkę.",
+				"off": "Wyłączone",
+				"off_description": "Wyłącz mody, aby grać w standardowy sposób."
+			},
 			"mode": {
+				"title": "Tryb gry",
+				"description": "Wybierz tryb gry, w którym chcesz grać. Każdy tryb oferuje inny poziom trudności i różne zasady.",
+
 				"standard": "Standardowy",
+				"standard_description": "Standardowy tryb gry, w którym możesz grać bez żadnych ograniczeń.",
 				"hardcore": "Hardcore",
+				"hardcore_description": "Tryb gry, w którym śmierć jest permanentna, a zasoby są ograniczone.",
 				"exploration": "Eksploracyjny",
-				"developer": "Deweloperski"
+				"exploration_description": "Tryb gry skoncentrowany na odkrywaniu i eksploracji świata.",
+				"developer": "Deweloperski",
+				"developer_description": "Tryb gry z dodatkowymi narzędziami dla twórców."
 			},
 			"size": {
+				"title": "Rozmiar świata",
+				"description": "Wybierz rozmiar świata, w którym chcesz grać. Większe światy oferują więcej miejsca do eksploracji, ale mogą być trudniejsze do zarządzania.",
+
 				"small": "Mały",
+				"small_description": "Mały świat, idealny do szybkiej gry.",
 				"medium": "Średni",
-				"large": "Duży"
+				"medium_description": "Średni świat, oferujący zrównoważoną rozgrywkę.",
+				"large": "Duży",
+				"large_description": "Duży świat, idealny do długich sesji gry."
 			},
 			"difficulty": {
+				"title": "Poziom trudności",
+				"description": "Wybierz poziom trudności, na którym chcesz grać. Wyższy poziom trudności oznacza większe wyzwania i więcej przeciwników.",
+
 				"easy": "Łatwy",
+				"easy_description": "Łatwy poziom trudności, idealny dla początkujących graczy.",
 				"normal": "Normalny",
-				"hard": "Trudny"
+				"normal_description": "Normalny poziom trudności, oferujący zrównoważoną rozgrywkę.",
+				"hard": "Trudny",
+				"hard_description": "Trudny poziom trudności, dla doświadczonych graczy szukających wyzwań."
 			}
 		}
 	},
 	"new_world": "Nowy Świat",
 	"on": "Włączone",
-	"off": "Wyłączone"
+	"off": "Wyłączone",
+	"button": {
+		"ok": "Ok",
+		"cancel": "Anuluj",
+		"yes": "Tak",
+		"no": "Nie",
+		"close": "Zamknij",
+		"save": "Zapisz",
+		"load": "Wczytaj",
+		"delete": "Usuń",
+		"start_new_game": "Rozpocznij nową grę"
+	},
+	"settings": {
+		"title": "Ustawienia",
+		"audio": {
+			"title": "Dźwięk",
+			"master_volume": "Głośność główna",
+			"music_volume": "Głośność muzyki",
+			"sfx_volume": "Głośność efektów dźwiękowych"
+		},
+		"video": {
+			"title": "Wideo",
+			"resolution": "Rozdzielczość",
+			"fullscreen": "Pełny ekran",
+			"vsync": "Synchronizacja pionowa"
+		},
+		"controls": {
+			"title": "Sterowanie",
+			"keyboard_mouse": "Klawiatura i mysz",
+			"gamepad": "Gamepad"
+		},
+		"language": {
+			"title": "Język",
+			"description": "Wybierz język, w którym chcesz grać."
+		}
+	},
+	"debug": {
+		"menu": {
+			"save_missing_localization_keys": "Zapisz brakujące klucze lokalizacji",
+			"save_missing_localization_keys_json": "Zapisz brakujące klucze lokalizacji (JSON)",
+			"save_settings": "Zapisz ustawienia",
+			"save_keys": "Zapisz przypisania klawiszy"
+		}
+	}
 }
